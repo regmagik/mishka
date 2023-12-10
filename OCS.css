@@ -50,9 +50,9 @@ h3{
 	margin:10px 0 0 6px ;
 	font-size:1.4em;	
 }
-hr.half-width{
-  width:50%;
-  margin: 0 auto;
+hr {
+    width:50%;
+    margin:0 auto;
 }
 .event{
 padding: 10px;
